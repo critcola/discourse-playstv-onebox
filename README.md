@@ -1,6 +1,6 @@
 <a href="https://critcola.com/?utm_source=github.com&utm_medium=readme&utm_term=logo&utm_content=discourse-playstv-onebox&utm_campaign=development">![Logo](https://critcola.com/assets/images/crit-cola-banner.svg)</a>
 
-# Overwatch Hero Icons for Discourse
+# Plays.tv Onebox for Discourse
 
 This plugin for Discourse extends Onebox to add support for embedding videos from Plays.tv in Discourse posts.
 

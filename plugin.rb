@@ -4,7 +4,7 @@
 # authors: Daniel Marquard
 # url: https://github.com/critcola/discourse-playstv-onebox
 
-class Onebox::Engine::PlaysTV
+class Onebox::Engine::PlaysTVOnebox
 	include Onebox::Engine
 
 	REGEX = /^https?:\/\/plays.tv\/video\/(\w+)/
@@ -15,6 +15,6 @@ class Onebox::Engine::PlaysTV
 	end
 	
 	def to_html
-		"<iframe src=\"//plays.tv/tcard/#{id}\" allowfullscreen=\"\" style=\"top: 0px; left: 0px; width: 690px; height: 534; position: absolute;\" frameborder=\"0\"></iframe>"
+		"<iframe src=\"//plays.tv/embeds/#{id}\" width=\"640\" height=\"359\" frameborder=\"0\" style=\"overflow: hidden;\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe>"
 	end
 end
