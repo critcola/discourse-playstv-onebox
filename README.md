@@ -1,6 +1,6 @@
 <a href="https://critcola.com/?utm_source=github.com&utm_medium=readme&utm_term=logo&utm_content=discourse-playstv-onebox&utm_campaign=development">![Logo](https://critcola.com/assets/images/crit-cola-banner.svg)</a>
 
-# Plays.tv Onebox for Discourse
+# Discourse Plays.tv Onebox
 
 This plugin for Discourse extends Onebox to add support for embedding videos from Plays.tv in Discourse posts.
 
@@ -43,4 +43,4 @@ Crit Cola is an [Overwatch clan](https://critcola.com/?utm_source=github.com&utm
 
 ## License
 
-The Plays.tv Onebox plugin for Discourse is released under the [MIT License](LICENSE).
+The Discourse Plays.tv Onebox plugin is released under the [MIT License](LICENSE).
