@@ -1,4 +1,4 @@
-# name: Plays.tv Discourse Onebox
+# name: Discourse Plays.tv Onebox
 # about: Adds support for embedding Plays.tv videos within Discourse.
 # version: 0.1
 # authors: Daniel Marquard
